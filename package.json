@@ -1,6 +1,6 @@
 {
   "name": "@bes/react-hub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing app for React",
   "start": "electron src/main.js",
   "scripts": {
